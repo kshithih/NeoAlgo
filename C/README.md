@@ -274,6 +274,7 @@ _add list here_
 - [Find Union and Intersection of two Sorted arrays](other/Union_and_Intersection_of_two_Sorted_arrays.c)
 - [Concatenate two strings](other/concatenate_two_strings.c)
 - [String Palindrome](other/String_Palindrome_or_not.c)
+- [Number_of_Occurrence_of_an_element_in_an_array](other/Number of occurence.c)
 
 ## Blockchain
 
