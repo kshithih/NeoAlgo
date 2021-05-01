@@ -105,6 +105,7 @@
 - [Counting Sort](sort/countingSort.c)
 - [Shaker Sort](sort/shaker_sort.c)
 - [Sort using Binary Search Tree](sort/BST_Sort.c)
+- [Quick Sort](sort/quick_sort.c)
 
 ## Dynamic Programming
 
